@@ -91,6 +91,4 @@ Joi is run with `convert: true`, `abortEarly: false`, and `stripUnknown: true` s
 
 **Fix 3:** Temporarily disable VPN / corporate filter and retry.
 
-## License
 
-MIT (sample project — use freely).
