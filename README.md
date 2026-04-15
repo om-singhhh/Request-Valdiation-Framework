@@ -2,7 +2,7 @@
 
 Full-stack sample for **dynamic API request validation**: validation rules live in **MongoDB**, the Express server **loads them at runtime**, builds **Joi** schemas, validates incoming JSON with **type coercion**, and returns **structured, user-friendly errors**. The **React (Vite)** dashboard loads those same definitions to **generate forms**, exercise `POST /register` and `POST /login`, and surface errors with **inline field hints** plus **toasts**.
 
-The UI follows a **minimal black canvas**, **sharp typography**, **yellow accent**, and **layered “3D” hero type** similar to high-end editorial layouts.
+The U.I. follows a **minimal black canvas**, **sharp typography**, **yellow accent**, and **layered “3D” hero type** similar to high-end editorial layouts.
 
 ## Prerequisites
 
